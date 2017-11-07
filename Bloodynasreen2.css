@@ -1,0 +1,17 @@
+body{
+	background-image: url(explosion.jpg);
+	width: 80%;
+	height: 100%vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	overflow: hidden;
+}
+
+	
+	
+#image{
+	position: absolute;
+	bottom: 0px;
+	height: 350px;
+}
